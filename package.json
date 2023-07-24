@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/usmanibrahim74/test-package/issues"
   },
-  "homepage": "https://github.com/usmanibrahim74/test-package#readme"
+  "homepage": "https://github.com/usmanibrahim74/test-package#readme",
+  "publishConfig": {
+    "@usmanibrahim74:registry": "https://npm.pkg.github.com"
+  }
 }
